@@ -11,7 +11,7 @@ a{
 
 .container {
     background-color: #fefefe;
-    color: #222;
+    color: #223;
     padding: 20px;
     max-width: 400px;
     margin: 0 auto;
@@ -51,7 +51,7 @@ h4 span{
 button {
     padding: 17px;
     background-color: #1e4c90;
-    color: #fefefe;
+    color: #dd2929;
     border: none;
     border-radius: 5px;
     cursor: pointer;
